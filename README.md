@@ -1,1 +1,1 @@
-# stensaethf.github.io
+# Software engineer, economist, photographer
