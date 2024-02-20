@@ -6,8 +6,8 @@
 
 ## Work Experience
 **Senior Software Engineer @ Facebook (_2017 - 2021_)**
-- Started as a fullstack + mobile engineer on a stealth team. Built several zero to one applications - [Messenger Kids](https://www.messengerkids.com) being one of them.
-- Transitioned to Content Integrity to work on machine learning and infrastructure. Started and led the team that worked on building ML models for all of the messaging platforms at Facebook Inc.
+- Started as a fullstack + mobile engineer on a stealth team. Built several zero to one applications, with [Messenger Kids](https://www.messengerkids.com) being one of them. Grew Messenger Kids to >1m MAU.
+- Transitioned to Content Integrity to work on machine learning and infrastructure. Started and led the team that worked on building ML models for all of different the messaging platforms/ surfaces at the company.
 
 ![Penguin @ Antarctica](/assets/img/xyz.jpeg)
 
